@@ -30,3 +30,19 @@ git push origin main
 git pull origin main
 ```
 - Sirve para poder descargar los cambios de nuestros repositorio  en la nube, en este caso github
+
+```
+git branch
+```
+- sirve para poder listar los branch que tengo localmente y me dice en cual me encuetro actualmente
+
+```
+git checkout -b nombre_ del_branch
+```
+- Sirve para crear un branch nuevo y poder trabajar en el
+
+```
+git checkout nombre_del_branch
+```
+-sirve para podewr moverme entre ramas
+-:eye: si e; checkout no tiene el -b es para moverse  
