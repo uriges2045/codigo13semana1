@@ -46,3 +46,8 @@ git checkout nombre_del_branch
 ```
 -sirve para podewr moverme entre ramas
 -:eye: si e; checkout no tiene el -b es para moverse  
+
+```
+git branch -d nombre de branch
+```
+- elimina el branch localmente
