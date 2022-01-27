@@ -27,3 +27,6 @@ git push origin main
 
 - Sirve para poder subir los cambios a nuestro repositorio en la nube, en este caso github
 ```
+git pull origin main
+```
+- Sirve para poder descargar los cambios de nuestros repositorio  en la nube, en este caso github
